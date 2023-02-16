@@ -2,4 +2,7 @@
     <string name="app_name">SilverMusicPlayer</string>
     <string name="silver_music_player">Silver Music Player</string>
     <string name="play_button_icon">play_button_icon</string>
+    <string name="next_button_icon" />
+    <string name="previous_button_icon" />
+    <string name="background_image">background_image</string>
 </resources>

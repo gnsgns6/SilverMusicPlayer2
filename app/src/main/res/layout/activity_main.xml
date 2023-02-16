@@ -2,14 +2,24 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
     tools:context=".MainActivity">
+<ImageView
+    android:contentDescription="@string/background_image"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/music2"
+    />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
 
 <TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="@string/silver_music_player"
+    android:textColor="@color/teal_200"
     android:textSize="30sp"
     android:textStyle="bold"
     android:layout_marginStart="60dp"
@@ -17,11 +27,28 @@
     />
 
     <ImageView
-        android:layout_width="260dp"
-        android:layout_height="284dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginStart="150dp"
         android:contentDescription="@string/play_button_icon"
         android:src="@drawable/play_icon"
-
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginStart="250dp"
+        android:contentDescription="@string/next_button_icon"
+        android:src="@drawable/skip_next"
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginStart="50dp"
+        android:contentDescription="@string/previous_button_icon"
+        android:src="@drawable/skip_previous"
         />
 
 </RelativeLayout>
