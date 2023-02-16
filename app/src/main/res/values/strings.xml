@@ -5,4 +5,6 @@
     <string name="next_button_icon" />
     <string name="previous_button_icon" />
     <string name="background_image">background_image</string>
+    <string name="round_music">round_music</string>
+    <string name="round_image">round_image</string>
 </resources>
