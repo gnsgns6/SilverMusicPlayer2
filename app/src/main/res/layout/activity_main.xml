@@ -44,7 +44,7 @@
     <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginTop="450dp"
+        android:layout_marginTop="650dp"
         android:layout_marginStart="150dp"
         android:contentDescription="@string/play_button_icon"
         android:src="@drawable/play_icon"
@@ -52,7 +52,7 @@
     <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginTop="450dp"
+        android:layout_marginTop="650dp"
         android:layout_marginStart="250dp"
         android:contentDescription="@string/next_button_icon"
         android:src="@drawable/skip_next"
@@ -60,7 +60,7 @@
     <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginTop="450dp"
+        android:layout_marginTop="650dp"
         android:layout_marginStart="50dp"
         android:contentDescription="@string/previous_button_icon"
         android:src="@drawable/skip_previous"
