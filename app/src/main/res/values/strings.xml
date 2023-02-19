@@ -7,4 +7,5 @@
     <string name="background_image">background_image</string>
     <string name="round_music">round_music</string>
     <string name="round_image">round_image</string>
+    <string name="music_title">Music Title</string>
 </resources>
