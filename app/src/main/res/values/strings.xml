@@ -8,4 +8,6 @@
     <string name="round_music">round_music</string>
     <string name="round_image">round_image</string>
     <string name="music_title">Music Title</string>
+    <string name="song_title">Song Title</string>
+    <string name="playlist">playlist</string>
 </resources>
