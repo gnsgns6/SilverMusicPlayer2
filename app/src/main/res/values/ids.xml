@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="user_storage" type="id">user_storage</item>
+    <item name="heading" type="id">heading</item>
+    <item name="roundCardView" type="id">roundCardView</item>
 </resources>
